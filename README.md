@@ -1,2 +1,2 @@
 # simongamechallenge
-Challenge made with Javascript
+Software version of popular simon game made with javascript
